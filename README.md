@@ -1,5 +1,3 @@
-## Hi there 👋
-
 Lawyer and former software developer exploring legal tech ⚡
 
 <!--
